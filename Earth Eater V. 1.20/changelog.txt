@@ -1,0 +1,69 @@
+V. 0.55
+
+Added support for polish language
+
+------------------------------
+
+
+V. 0.60
+
+Added background image in
+  - Main menu
+  - Settings menu
+  - Pause menu
+  
+In Settings and Pauze menu image is darker than in Main menu
+
+Changed layout in Settings, because Back buttons was blocking part of Settings button in Main menu
+
+Restart button is now working
+
+Restart and Play button creates new game
+
+Added outline to title, to read it easier
+  
+------------------------------
+
+
+V. 1.00
+
+!! Released full game !!
+
+Eating Earths is now working!
+
+Added end of the game
+
+Earth eaten box is now wider, because in polish language text barely fits
+
+------------------------------
+
+
+V. 1.05
+
+Increased number of Earths from 50 to 100
+
+------------------------------
+
+
+V. 1.10
+
+New skins option in main menu
+
+New 18 different color skins for sun
+
+------------------------------
+
+V. 1.15
+
+Changed default font, but you can choose previous one in settings
+
+Added second site in setting for more options
+
+------------------------------
+
+
+V. 1.20
+
+Added loading screen when starting the game
+
+------------------------------
