@@ -1,0 +1,109 @@
+html, body
+{
+  margin: 0;
+  padding: 0;
+}
+canva 
+{
+  display: block;
+}
+
+/* Rozmiar mniejszy i większy */
+
+#rozmiar_dol
+{
+  position: fixed;
+  top: 345px;
+  left: 124px;
+  width: 14px;
+  height: 14px;
+  background-color: rgba(0,0,0,0.25);
+  border: 1px solid #000;
+}
+#rozmiar_gora
+{
+  position: fixed;
+  top: 330px;
+  left: 124px;
+  width: 14px;
+  height: 14px;
+  background-color: rgba(0,0,0,0.25);
+  border: 1px solid #000;
+}
+
+/* Wzorce rozmiaru */
+
+#rozmiar_duzy
+{
+  position: fixed;
+  top: 170px;
+  left: 20px;
+  width: 110px;
+  height: 30px;
+  background-color: #fff;
+  text-align: center;
+}
+#rozmiar_normalny
+{
+  position: fixed;
+  top: 210px;
+  left: 20px;
+  width: 110px;
+  height: 30px;
+  background-color: #fff;
+  text-align: center;
+}
+#rozmiar_maly
+{
+  position: fixed;
+  top: 250px;
+  left: 20px;
+  width: 110px;
+  height: 30px;
+  background-color: #fff;
+  text-align: center;
+}
+
+/* Kształt pisaka */
+
+#pedzel_kwadrat
+{
+  position: fixed;
+  top: 100px;
+  left: 25px;
+  width: 30px;
+  height: 30px;
+  border: 1px solid  #000;
+  background-color: rgba(255,255,255,0);
+}
+#pedzel_kolo
+{
+  position: fixed;
+  top: 100px;
+  left: 95px;
+  width: 30px;
+  height: 30px; 
+  border: 1px solid #000;
+  background-color: rgba(255,255,255,0);
+}
+
+/* Czystka */
+
+#czystka
+{
+  position: fixed;
+  width: 31px;
+  height: 31px;
+  top: 435px;
+  left: 497px;
+  border: 2px solid #000;
+  background-color: rgba(255,255,255,0);
+  border-radius: 5px;
+}
+#kosz
+{
+  position: fixed;
+  background-color: #fff;
+  top: 438px;
+  left: 500px;
+}

@@ -1,0 +1,182 @@
+/* Ciemne */
+
+#czarny
+{
+  position: fixed;
+  top: 415px;
+  left: 170px;
+  width: 30px;
+  height: 30px;
+  background-color: black;
+  border-radius: 5px;
+  border: 2px solid #000;
+}
+#szary
+{
+  position: fixed;
+  top: 415px;
+  left: 210px;
+  width: 30px;
+  height: 30px;
+  background-color: gray;
+  border-radius: 5px;
+  border: 2px solid #000;
+}
+#c_brazowy
+{
+  position: fixed;
+  top: 415px;
+  left: 250px;
+  width: 30px;
+  height: 30px;
+  background-color: hsl(25, 76%, 16%);
+  border-radius: 5px;
+  border: 2px solid #000;
+}
+#c_czerwony
+{
+  position: fixed;
+  top: 415px;
+  left: 290px;
+  width: 30px;
+  height: 30px;
+  background-color: darkred;
+  border-radius: 5px;
+  border: 2px solid #000;
+}
+#pomaranczowy
+{
+  position: fixed;
+  top: 415px;
+  left: 330px;
+  width: 30px;
+  height: 30px;
+  background-color: orange;
+  border-radius: 5px;
+  border: 2px solid #000;
+}
+#zielony
+{
+  position: fixed;
+  top: 415px;
+  left: 370px;
+  width: 30px;
+  height: 30px;
+  background-color: green;
+  border-radius: 5px;
+  border: 2px solid #000;
+}
+#c_niebieski
+{
+  position: fixed;
+  top: 415px;
+  left: 410px;
+  width: 30px;
+  height: 30px;
+  background-color: navy;
+  border-radius: 5px;
+  border: 2px solid #000;
+}
+#fioletowy
+{
+  position: fixed;
+  top: 415px;
+  left: 450px;
+  width: 30px;
+  height: 30px;
+  background-color: purple;
+  border-radius: 5px;
+  border: 2px solid #000;
+}
+
+
+/* Jasne */
+
+#bialy
+{
+  position: fixed;
+  top: 455px;
+  left: 170px;
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  border-radius: 5px;
+  border: 2px solid #000;
+}
+#srebrny
+{
+  position: fixed;
+  top: 455px;
+  left: 210px;
+  width: 30px;
+  height: 30px;
+  background-color: silver;
+  border-radius: 5px;
+  border: 2px solid #000;
+}
+#brazowy
+{
+  position: fixed;
+  top: 455px;
+  left: 250px;
+  width: 30px;
+  height: 30px;
+  background-color: SaddleBrown;
+  border-radius: 5px;
+  border: 2px solid #000;
+}
+#czerwony
+{
+  position: fixed;
+  top: 455px;
+  left: 290px;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  border-radius: 5px;
+  border: 2px solid #000;
+}
+#zolty
+{
+  position: fixed;
+  top: 455px;
+  left: 330px;
+  width: 30px;
+  height: 30px;
+  background-color: yellow;
+  border-radius: 5px;
+  border: 2px solid #000;
+}
+#j_zielony
+{
+  position: fixed;
+  top: 455px;
+  left: 370px;
+  width: 30px;
+  height: 30px;
+  background-color: lime;
+  border-radius: 5px;
+  border: 2px solid #000;
+}
+#niebieski
+{
+  position: fixed;
+  top: 455px;
+  left: 410px;
+  width: 30px;
+  height: 30px;
+  background-color: blue;
+  border-radius: 5px;
+  border: 2px solid #000;
+}
+#rozowy
+{
+  position: fixed;
+  top: 455px;
+  left: 450px;
+  width: 30px;
+  height: 30px;
+  background-color: pink;
+  border-radius: 5px;
+  border: 2px solid #000;
+}

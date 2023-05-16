@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/addons/p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="kolory.css">
+    <meta charset="utf-8" />
+
+  </head>
+  <body>
+    <main>
+      
+      <!-- Kolory -->
+      
+      <input type="button" id="czerwony" onclick="kolor_czer()" />
+      <input type="button" id="zielony" onclick="kolor_ziel()" />
+      <input type="button" id="niebieski" onclick="kolor_nieb()" />
+      <input type="button" id="zolty" onclick="kolor_zol()" />
+      <input type="button" id="bialy" onclick="kolor_bia()" />
+      <input type="button" id="czarny" onclick="kolor_czar()" />
+      <input type="button" id="brazowy" onclick="kolor_braz()" />
+      <input type="button" id="c_niebieski" onclick="kolor_c_nieb()" />
+      <input type="button" id="rozowy" onclick="kolor_roz()" />
+      <input type="button" id="fioletowy" onclick="kolor_fiol()" />
+      <input type="button" id="pomaranczowy" onclick="kolor_pomar()" />
+      <input type="button" id="j_zielony" onclick="kolor_j_ziel()" />
+      <input type="button" id="c_brazowy" onclick="kolor_c_braz()" />
+      <input type="button" id="srebrny" onclick="kolor_sreb()" />
+      <input type="button" id="szary" onclick="kolor_sza()" />
+      <input type="button" id="c_czerwony" onclick="kolor_c_czer()" />
+      
+      <!-- Gotowe rozmiary -->
+      
+      <input type="button" id="rozmiar_duzy" onclick="roz_duzy()" value="Duży (25)" />
+      <input type="button" id="rozmiar_normalny" onclick="roz_normalny()" value="Domyślny (15)" />
+      <input type="button" id="rozmiar_maly" onclick="roz_maly()" value="Mały (5)" />
+      
+      <!-- Mniejsze, większe -->
+      
+      <input type="button" id="rozmiar_dol" onclick="rozmiar_dol()" />
+      <input type="button" id="rozmiar_gora" onclick="rozmiar_gora()" />
+      
+      <!-- Pędzel -->
+      
+      <input type="button" id="pedzel_kwadrat" onclick="mal_kw(),kw_inf()" />
+      <input type="button" id="pedzel_kolo" onclick="mal_ko(),ko_inf()" />
+      
+      <!-- Czystka -->
+      
+      <img src="kosz.png" id="kosz">
+      <input type="button" id="czystka" onclick="czysc()" title="Wyczyśc cały obraz" />
+      
+    </main>
+    <script src="everything.js"></script>
+    <script src="kolory.js"></script>
+    <script src="rozmiar.js"></script>
+    <script src="pedzel.js"></script>
+  </body>
+</html>
